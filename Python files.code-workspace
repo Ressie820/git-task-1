@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../Python files"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"python-envs.pythonProjects": [
+			{
+				"path": "Financial_calculators.txt/dot.task.file/result.txt",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip"
+			}
+		],
+		"powershell.cwd": "Desktop"
+	}
+}
